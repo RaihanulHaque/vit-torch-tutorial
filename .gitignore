@@ -1,0 +1,5 @@
+datasets/
+__pycache__/
+test-cifar-10/
+models/
+logs/
